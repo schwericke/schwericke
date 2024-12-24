@@ -1,5 +1,5 @@
-## Hi there 👋
-- 🌱 I’m currently learning, just like my machine.
+Hi there 👋
+- 🌱 I’m currently learning, just like my machine...
 
 <!--
 **AntonIcke/AntonIcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
