@@ -1,5 +1,11 @@
-Hi there 👋
-- 🌱 I’m currently learning, just like my machine...
+🌱 I’m learning non stop, just like my machine...
+
+Proficient in Python:
+
+
+Knowing enough ... to be dangerous:
+Command Line
+Data Sourcing: csv, API, scraping
 
 <!--
 **AntonIcke/AntonIcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
