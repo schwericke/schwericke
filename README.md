@@ -5,7 +5,7 @@ Proficient in Python:
 
 Knowing enough ... to be dangerous:
 Command Line
-Data Sourcing: csv, API, scraping
+Data Sourcing: csv, APIs, scraping
 
 <!--
 **AntonIcke/AntonIcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
