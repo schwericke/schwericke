@@ -4,7 +4,7 @@ Proficient in Python:
 
 Data Structures and Algorithms on Leetcode: hashs, stacks & queues, heaps, linked lists, trees, graphs, binary search, backtracking, dynamic programming
 
-Data Sourcing: csv, requests (APIs), scraping
+Data Sourcing: csv, API (requests), scraping (BeautifulSoup)
 
 
 Knowing enough ... to be dangerous:
