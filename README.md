@@ -1,11 +1,11 @@
 🌱 I’m learning non stop, just like my machine...
 
 Proficient in Python:
-
+Data Structures and Algorithms on Leetcode: hashs, stacks & queues, heaps, linked lists, trees, graphs, binary search, backtracking, dynamic programming
+Data Sourcing: csv, requests (APIs), scraping
 
 Knowing enough ... to be dangerous:
 Command Line
-Data Sourcing: csv, APIs, scraping
 
 <!--
 **AntonIcke/AntonIcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
