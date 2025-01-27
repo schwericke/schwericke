@@ -2,13 +2,13 @@
 
 Proficient in Python:
 
-Data Structures and Algorithms on Leetcode: hashs, stacks & queues, heaps, linked lists, trees, graphs, binary search, backtracking, dynamic programming
+Data Structures and Algorithms on Leetcode
 
-Data Sourcing: csv, API (requests), scraping (BeautifulSoup)
+Data Sourcing: from csv, JSON API (requests), HTML scraping (BeautifulSoup)
 
 
 Knowing enough ... to be dangerous:
-Command Line
+Command Line, SQL, Jupyter (Markdown + Latex)
 
 <!--
 **AntonIcke/AntonIcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
