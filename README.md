@@ -4,7 +4,7 @@ Proficient in Python:
 
 Data Structures and Algorithms on Leetcode
 
-Data Sourcing: from csv, JSON API (requests), HTML scraping (BeautifulSoup)
+Data Sourcing: from csv, JSON API (requests), HTML scraping (BeautifulSoup), SQL (sqlite)
 
 
 Knowing enough ... to be dangerous:
