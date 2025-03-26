@@ -3,7 +3,9 @@ Hi! :wave:
 </h1>
 
 <h2 align='center'> 
-I am Anton - Data Scientist and Machine Learning Engineer
+I am Anton
+  
+Data Scientist and Machine Learning Engineer
 </h2>
 
 ⚙️ Fluent in Python, SQL and R
