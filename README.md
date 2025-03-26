@@ -8,9 +8,11 @@ I am Anton - Data Scientist and Machine Learning Engineer
 
 <p align='center'> 
 ⚙️ Fluent in Python, SQL and R
-
+</p>
+<p align='center'> 
 🌍 Loving the whole data journey from sourcing over analysis, visualization and science to engineering
-
+</p>
+<p align='center'> 
 💬 Ping me about math, stats and data
 </p>
 
