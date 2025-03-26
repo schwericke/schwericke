@@ -12,4 +12,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwericke&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwericke&show_icons=true&theme=dark&bg_color=00000000)
