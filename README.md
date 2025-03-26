@@ -1,5 +1,5 @@
-## Hy there 👋, I am Anton Schwericke
-## Data Scientist and Machine Learning Engineer
+## Hy there, I am Anton Schwericke 👋
+### Data Scientist and Machine Learning Engineer
 
 ⚙️ Fluent in Python, SQL and R
 
