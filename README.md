@@ -1,7 +1,10 @@
-<p align="center">
-  
-# Hi! 👋
-### I am Anton - Data Scientist and Machine Learning Engineer
+<h1 align='center'> 
+Hi! :wave:
+</h1>
+
+<h2 align='center'> 
+I am Anton - Data Scientist and Machine Learning Engineer
+</h2>
 
 ⚙️ Fluent in Python, SQL and R
 
