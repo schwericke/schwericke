@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
   
 # Hi! 👋
 ### I am Anton - Data Scientist and Machine Learning Engineer
