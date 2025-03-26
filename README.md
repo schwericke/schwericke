@@ -1,6 +1,4 @@
-<h1 align='center'> 
-Hi! :wave:
-</h1>
+# Hi! :wave:
 
 ## I am Anton - Data Scientist and Machine Learning Engineer
 
@@ -10,6 +8,4 @@ Hi! :wave:
 
 💬 Ping me about math, stats and data
 
-<h1 align='center'> 
-Stay awesome!
-</h1>
+## Stay awesome!
