@@ -10,4 +10,6 @@
 
 ## Stay awesome!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwericke)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwericke&show_icons=true&theme=transparent)
