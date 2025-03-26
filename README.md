@@ -2,7 +2,7 @@ Proficient in Python, SQL and R
 
 Data Structures and Algorithms on Leetcode
 
-Data Sourcing: from csv, JSON API (requests), HTML scraping (BeautifulSoup), SQL (sqlite)
+Data Sourcing: from csv, JSON API, HTML scraping
 
 Data Analysis: Numpy, SciPy, Pandas, Matplotlib, Seaborn
 
