@@ -1,3 +1,5 @@
+<p style="text-align: center;">
+  
 # Hi! 👋
 ### I am Anton - Data Scientist and Machine Learning Engineer
 
@@ -8,3 +10,5 @@
 💬 Ping me about math, stats and data
 
 ### Stay awesome!
+
+</p>
