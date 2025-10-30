@@ -1,6 +1,6 @@
 # Hi! :wave:
 
-## I am Anton - Data Scientist and Machine Learning Engineer
+## I am Anton - Data Scientist and Analyst
 
 ⚙️ Fluent in Python, SQL and R
 
