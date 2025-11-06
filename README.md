@@ -2,7 +2,7 @@
 
 ## I am Anton - Data Specialist
 
-⚙️ Fluent in Python, SQL and R
+⚙️ Fluent in Python, SQL, R and SAS
 
 💬 Ping me about math, stats and data
 
