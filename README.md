@@ -7,6 +7,6 @@
 💬 Ping me about math, stats and data
 
 ## Projects
-[⚡ Data Analysis for GASAG Energy with Python, BigQuery, dbt and Looker](https://schwericke.github.io/gasag/)
+[⚡ Data Analysis for GASAG Energy (Python, BigQuery, dbt and Looker)](https://schwericke.github.io/gasag/)
 
 ## Stay awesome!
