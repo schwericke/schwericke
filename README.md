@@ -7,6 +7,6 @@
 💬 Ping me about math, stats and data
 
 ## Projects
-[⚡ Data Analysis for GASAG Energy](https://schwericke.github.io/gasag/)
+[⚡ Explorative Data Analysis for GASAG Energy](https://schwericke.github.io/gasag/)
 
 ## Stay awesome!
