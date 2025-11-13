@@ -7,8 +7,8 @@
 💬 Ping me about math, stats and data
 
 ## Projects
-[⚡ Dashboard of Todays Renewable Energy Share with Python (requests) and Streamlit](https://renewabletoday.streamlit.app/)
+[⚡ Renewable Energy Dashboard with Python (requests) and Streamlit](https://renewabletoday.streamlit.app/)
 
-[⚡ Explorative Data Analysis and Dashboard for GASAG Energy with Python (matplotlib), BigQuery, dbt and Looker)](https://schwericke.github.io/gasag/)
+[🔋 Power Plant Analysis with Python (matplotlib), BigQuery, dbt and Looker)](https://schwericke.github.io/gasag/)
 
 ## Stay awesome!
