@@ -9,6 +9,6 @@
 ## Projects
 [⚡ Today's Renewable Energy Dashboard with Requests and Streamlit](https://renewabletoday.streamlit.app/)
 
-[🔋 Power Plant Analysis with Matplotlib, BigQuery, dbt and Looker)](https://schwericke.github.io/gasag/)
+[🔋 Power Plant Analysis with Matplotlib, BigQuery, dbt and Looker](https://schwericke.github.io/gasag/)
 
 ## Stay awesome!
