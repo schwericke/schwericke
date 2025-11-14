@@ -10,6 +10,7 @@
 [<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="18" alt="Streamlit logo"> **Streamlit Dashboard** displaying today’s renewable energy share, leveraging data from three APIs.](https://renewabletoday.streamlit.app/)
 
 [<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="18" alt="Jupyter logo"> **Jupyter Slides** presenting an explorative data analysis with Matplotlib.](https://schwericke.github.io/gasag/) 
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/looker.png" width="18" alt="Looker logo"> **Looker Dashboard** connected to BigQuery, powered by dbt.](https://lookerstudio.google.com/reporting/44af68b5-399e-4ee3-a1c0-c885fd8d14df/page/ViVQF)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/aa1a62101e3c09c94c839b99b29bb0ef0a7e8ad8/icons/looker.svg" width="18" alt="Looker logo"> **Looker Dashboard** connected to BigQuery, powered by dbt.](https://lookerstudio.google.com/reporting/44af68b5-399e-4ee3-a1c0-c885fd8d14df/page/ViVQF)
+
 
 ## Stay awesome!
