@@ -11,6 +11,7 @@
 
 [<img src="https://matplotlib.org/_static/images/logo2.svg" width="18" alt="Matplotlib logo"> **Jupyter Slides** presenting an explorative data analysis with Matplotlib.](https://schwericke.github.io/gasag/)
 
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/aa1a62101e3c09c94c839b99b29bb0ef0a7e8ad8/icons/dbt.svg" width="18" alt="dbt logo"> **Looker Dashboard** connected to BigQuery, powered by dbt.](<REPLACE_WITH_YOUR_DBT_REPO_OR_DOCS_LINK>)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/ff17e67d1e12b68b32de49c1c7ff99d40b95dc57/icons/dbt.svg" width="18" alt="dbt logo"> **Looker Dashboard** connected to BigQuery, powered by dbt.](https://lookerstudio.google.com/reporting/44af68b5-399e-4ee3-a1c0-c885fd8d14df/page/ViVQF)
+
 
 ## Stay awesome!
