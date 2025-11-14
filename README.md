@@ -11,7 +11,7 @@
 
 [<img src="https://github.com/user-attachments/assets/d907b9ea-7880-436a-8233-1b0b8228f653" width="18" alt="Jupyter_logo"> **Jupyter Slides** presenting an explorative data analysis with Matplotlib.](https://schwericke.github.io/gasag/)
 
-[<img src="https://github.com/user-attachments/assets/21823c2c-4403-400c-9186-d86faac09e21" width="18" alt="GCP_Logo"> **Looker Dashboard** connected to BigQuery, powered by dbt.](https://lookerstudio.google.com/reporting/44af68b5-399e-4ee3-a1c0-c885fd8d14df/page/ViVQF)
+[<img src="google-looker.png" width="18" alt="GCP_Logo"> **Looker Dashboard** connected to BigQuery, powered by dbt.](https://lookerstudio.google.com/reporting/44af68b5-399e-4ee3-a1c0-c885fd8d14df/page/ViVQF)
 
 ## Stay awesome! 
 
