@@ -9,7 +9,7 @@
 ## Projects
 [<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="18" alt="Streamlit logo"> **Streamlit Dashboard** displaying today’s renewable energy share, leveraging data from three APIs.](https://renewabletoday.streamlit.app/)
 
-[<img src="https://matplotlib.org/_static/images/logo2.svg" width="18" alt="Matplotlib logo"> **Jupyter Slides** presenting an explorative data analysis with Matplotlib.](https://schwericke.github.io/gasag/)
+[<img src="https://github.com/user-attachments/assets/d907b9ea-7880-436a-8233-1b0b8228f653" width="18" alt="Jupyter_logo"> **Jupyter Slides** presenting an explorative data analysis with Matplotlib.](https://schwericke.github.io/gasag/)
 
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/ff17e67d1e12b68b32de49c1c7ff99d40b95dc57/icons/dbt.svg" width="18" alt="dbt logo"> **Looker Dashboard** connected to BigQuery, powered by dbt.](https://lookerstudio.google.com/reporting/44af68b5-399e-4ee3-a1c0-c885fd8d14df/page/ViVQF)
 
